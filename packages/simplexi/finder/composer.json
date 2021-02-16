@@ -1,0 +1,19 @@
+{
+    "name": "ayman/finder",
+    "description": "finder package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AymanZayed",
+            "email": "elshehawy.m92@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Finder\\": "src/"
+        }
+    },
+    "require": {}
+}
